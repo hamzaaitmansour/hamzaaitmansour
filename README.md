@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="A_digital_illustration_with_a_dark_theme_showcases.png" alt="Java Dark Banner" width="100%">
+  <img src="jv.jpg" alt="Java Dark Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Hamza AIT MANSOUR 👋</h1>
