@@ -99,7 +99,7 @@ Specialization: Backend, Cloud, Software Architecture, Agile
 
 **Certifications**  
 - Java SE 17 Certified  
-- Java SE 8 OCA Certified  
+
 
 ---
 
