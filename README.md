@@ -75,7 +75,7 @@ I'm currently seeking a **4–6 month PFE internship starting February 2026** fo
 | **Classroom Management System** | 2024 | JEE web app with Hibernate JPA, REST APIs | Java EE, JPA, MySQL | *(link soon)* |
 | **E-commerce Website** | 2023 | Laravel e-commerce platform | Laravel, MySQL | *(link soon)* |
 
-➡️ **Give me the GitHub URLs and I will insert them.**
+
 
 ---
 
@@ -126,7 +126,7 @@ Available for **remote or on-site opportunities**.
 |------|------|
 | **Email** | hamza.aitmansour@edu.uiz.ac.ma |
 | **GitHub** | [hamzaaitmansour](https://github.com/hamzaaitmansour) |
-| **LinkedIn** | (add your link here) |
+| **LinkedIn** |[hamzaaitmansour](https://www.linkedin.com/in/hamzaaitmansour/) |
 | **Location** | Agadir, Morocco |
 
 ---
