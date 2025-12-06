@@ -80,15 +80,15 @@ I'm currently seeking a **4–6 month PFE internship starting February 2026** fo
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hamzaaitmansour&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaaitmansour&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaaitmansour&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=hamzaaitmansour&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaitmansour&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaaitmansour&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
+
 
 ---
 
