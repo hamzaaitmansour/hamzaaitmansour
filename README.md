@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="jv.jpg" alt="Banner" width="100%">
+  <img src="banner.png" alt="Hamza Ait Mansour, Flutter Mobile Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Hamza Ait Mansour 👋</h1>
@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamzaaitmansour/"><img src="https://img.shields.io/badge/LinkedIn-hamzaaitmansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hamza.aitmansour@edu.uiz.ac.ma"><img src="https://img.shields.io/badge/Email-hamza.aitmansour%40edu.uiz.ac.ma-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -61,19 +60,19 @@ I have shipped production software for SaaS companies in Morocco and France (com
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaaitmansour&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=hamzaaitmansour&theme=tokyonight" alt="GitHub streak"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaaitmansour&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzaaitmansour&theme=tokyonight" alt="Top languages by commit"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaaitmansour&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=hamzaaitmansour&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
 
 ## 🎓 Education & certification
 
-- **ENSA Agadir:** State Engineering Degree in Computer Engineering (2021–2026)
+- **ENSA Agadir:** State Engineering Degree in Computer Engineering
 - **Oracle Certified Professional:** Java SE 17 Developer
 - **Languages:** Arabic (native), French, English
 
@@ -84,7 +83,6 @@ I have shipped production software for SaaS companies in Morocco and France (com
 | Type | Info |
 |------|------|
 | **Email** | hamza.aitmansour@edu.uiz.ac.ma |
-| **LinkedIn** | [hamzaaitmansour](https://www.linkedin.com/in/hamzaaitmansour/) |
 | **Location** | Rabat, Morocco |
 
 <p align="center">
